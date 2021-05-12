@@ -25,7 +25,6 @@ distro==1.4.0
 entrypoints==0.3
 gitdb==4.0.7
 GitPython==3.1.14
-hibagent==1.0.1
 httplib2==0.14.0
 hyperlink==19.0.0
 idna==2.8
