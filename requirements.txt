@@ -22,7 +22,6 @@ dbus-python==1.2.16
 decorator==5.0.7
 defusedxml==0.7.1
 distro==1.4.0
-ec2-hibinit-agent==1.0.0
 entrypoints==0.3
 gitdb==4.0.7
 GitPython==3.1.14
